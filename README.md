@@ -107,9 +107,11 @@ else:
 
 ```
 ## Sample Input and Output
-
+# Linear search output
 ![output](./img/Screenshot_20230123_010516.png)
+# Binary search output(iterative)
 ![output](./img/Screenshot_20230123_010531.png)
+# Binary search ourput(recursive)
 ![output](./img/Screenshot_20230123_010543.png)
 
 
